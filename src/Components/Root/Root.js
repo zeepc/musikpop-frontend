@@ -4,7 +4,7 @@ import './Root.css';
 const Root = () => {
 		return(
 			<div className='Root'>
-			<h1>Hello!!!!!!!!!</h1>
+			<h1>    </h1>
 			</div>	
 	)
 
