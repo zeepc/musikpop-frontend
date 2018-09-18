@@ -4,7 +4,7 @@ import './Navbar.css';
 const Navbar = () => {
 		return(
 			<div className='Navbar'>
-				<span className="logo-title">musikpop</span>
+				<div className="logo-title">musikpop</div>
 			</div>	
 	)
 

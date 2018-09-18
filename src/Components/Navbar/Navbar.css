@@ -1,6 +1,8 @@
 .logo-title{
 	position: absolute;
-	display: left;
-	font-size: 40px;
-	color: black;
+	padding-left: 35px ;
+	font-family: 'Plaster', cursive;
+	text-shadow: 2px 2px 4px #2a2a2a;
+	font-size: 37px;
+	color: white;
 }
