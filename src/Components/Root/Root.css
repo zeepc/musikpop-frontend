@@ -1,7 +1,5 @@
 body {
-	background: #5f2c82;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(50deg, rgba(92,0,92,0.65) 0%, rgba(0,128,128,1) 100%); /* w3c */  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(50deg, rgba(92,0,92,0.65) 0%, rgba(0,128,128,1) 100%); /* w3c */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 .h1-test{
